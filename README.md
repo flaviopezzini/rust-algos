@@ -1,4 +1,5 @@
 Algorithms implemented so far:
-Bubble Sort
-Merge Sort
-Quick Sort
+Bubble Sort  
+Merge Sort  
+Quick Sort  
+
